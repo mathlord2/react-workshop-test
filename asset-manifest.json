@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-workshop-test/static/css/main.2d3e0b67.css",
+    "main.js": "/react-workshop-test/static/js/main.4176c10f.js",
+    "static/js/787.bcdf116a.chunk.js": "/react-workshop-test/static/js/787.bcdf116a.chunk.js",
+    "index.html": "/react-workshop-test/index.html",
+    "main.2d3e0b67.css.map": "/react-workshop-test/static/css/main.2d3e0b67.css.map",
+    "main.4176c10f.js.map": "/react-workshop-test/static/js/main.4176c10f.js.map",
+    "787.bcdf116a.chunk.js.map": "/react-workshop-test/static/js/787.bcdf116a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d3e0b67.css",
+    "static/js/main.4176c10f.js"
+  ]
+}
